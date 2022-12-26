@@ -17,3 +17,9 @@
 ### O Serverless Framework é um framework da Web gratuito e de código aberto escrito em Node.js.É a primeira estrutura desenvolvida para construir aplicativos no AWS Lambda, uma plataforma Serverless fornecida pela AWS. Atualmente oferece suporte para Azure, Google Cloud, IBM Cloud, Oracle Cloud e outros.
 
 ### O Serverless Framework ajuda a desenvolver a implantar suas funções do AWS Lambda, junto com os recursos de infraestrutura da AWS necessárias. Oferece gerenciamento de código e infraestrutura, suporte a linguagens como Node.js,Python, Java e outras.
+
+### Curso feito na Dio.me com a mentor Cassiano Ricardo de Oliveira Peres-Analista e Desenvolvedor de Sistemas
+
+## links úteis
+
+[Dio.me](https://www.dio.me/)
